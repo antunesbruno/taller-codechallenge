@@ -2,18 +2,15 @@
 
 Welcome to the **Taller Code Challenge** repository! This project is a web API built using **.NET Core** and **C#**, designed to demonstrate best practices in API development, clean architecture, and problem-solving skills. Whether you're here to explore, contribute, or learn, we hope you find this repository useful and inspiring.
 
-## Table of Contents
+## About the Problem-Solving
 
-- [About the Project](#about-the-project)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Running the API](#running-the-api)
-- [API Endpoints](#api-endpoints)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+The task consists to modernize a classic ASP application analizing the legacy code, indentifying vulnerabilities and implement a new code in ASP.NET Core.
+
+## Potential Vulnerabilites in ASP Classic Code
+
+- **SQL Injection** - this occurs when a attacker manipulates the input to execute arbitrary SQL Code, for example if the username parameter is not properly sanitized an attacker could input something like "DROP Table Users" to delete entire users table.
+- **Information disclosure** - if the query is executed without proper error handling it migth expose sensitive information, return messages that reveal the structure of database making it easier for attacks.
+- **Connection String exposed** - in the code we can see informations of database exploring the property CONN that execute a query in a ASP page
 
 ## About the Project
 
@@ -34,9 +31,10 @@ To get a local copy up and running, follow these steps.
 
 Before you begin, ensure you have the following installed:
 
-- [.NET Core SDK](https://dotnet.microsoft.com/download) (version 6.0 or later)
+- [.NET Core SDK](https://dotnet.microsoft.com/download) (version 8.0 or later)
 - [Visual Studio](https://visualstudio.microsoft.com/) or [Visual Studio Code](https://code.visualstudio.com/)
 - [Git](https://git-scm.com/)
+- EntityFrameworkInMemory
 
 ### Installation
 
@@ -66,13 +64,11 @@ Before you begin, ensure you have the following installed:
 
 ## Running the API
 
-To run the API locally, use the following command:
-
-```bash
-dotnet run --project <ProjectName>
-```
-
-Replace `<ProjectName>` with the name of the main project file (e.g., `Taller.CodeChallenge.Api`).
+- First compile the code and following execute the IIS Profile to start the WEB API
+- Start using the POST INSERT users to create new user in a MEMORY Database
+- Use the GET USER METHOD to get the inserted Users in a database
+- Execute the ASP.NET Page in a another instance of the Visual Studio and change your name in HomeController that was passed
+  like parameter to the API to see that the page will get a correct name by REST operation. 
 
 The API will start and be accessible at `https://localhost:5001` or `http://localhost:5000` by default.
 
