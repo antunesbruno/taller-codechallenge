@@ -2,18 +2,16 @@
 
 Welcome to the **Taller Code Challenge** repository! This project is a web API built using **.NET Core** and **C#**, designed to demonstrate best practices in API development, clean architecture, and problem-solving skills. Whether you're here to explore, contribute, or learn, we hope you find this repository useful and inspiring.
 
-## Table of Contents
+## About the Problem-Solving
 
-- [About the Project](#about-the-project)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Running the API](#running-the-api)
-- [API Endpoints](#api-endpoints)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+The task consists to modernize a classic ASP application analizing the legacy code, indentifying vulnerabilities and implement a new code in ASP.NET Core.
+
+## Potential Vulnerabilites in ASP Classic Code
+
+- SQL Injection - this occurs when a attacker manipulates the input to execute arbitrary SQL Code, for example if the username parameter is not properly sanitized an attacker could input something like "DROP Table Users" to delete entire users table.
+- Information disclosure - if the query is executed without proper error handling it migth expose sensitive information, return messages that reveal the structure of database making it easier for attacks.
+- Connection String exposed - in the code we can see informations of database exploring the property CONN that execute a query in a ASP page
+
 
 ## About the Project
 
