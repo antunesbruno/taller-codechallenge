@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6tNrWjE0IFMuhS51zvQ/pvc4l0r7ScsJqhXquy7+9TQ=",
+  "Source": "Taller.CodeChallenge.Api",
+  "BasePath": "_content/Taller.CodeChallenge.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

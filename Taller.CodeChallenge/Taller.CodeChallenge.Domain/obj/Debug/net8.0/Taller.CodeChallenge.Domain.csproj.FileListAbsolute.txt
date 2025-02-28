@@ -1,0 +1,12 @@
+C:\Users\137070\source\repos\Taller.CodeChallenge\Taller.CodeChallenge.Domain\bin\Debug\net8.0\Taller.CodeChallenge.Domain.deps.json
+C:\Users\137070\source\repos\Taller.CodeChallenge\Taller.CodeChallenge.Domain\bin\Debug\net8.0\Taller.CodeChallenge.Domain.dll
+C:\Users\137070\source\repos\Taller.CodeChallenge\Taller.CodeChallenge.Domain\bin\Debug\net8.0\Taller.CodeChallenge.Domain.pdb
+C:\Users\137070\source\repos\Taller.CodeChallenge\Taller.CodeChallenge.Domain\obj\Debug\net8.0\Taller.CodeChallenge.Domain.csproj.AssemblyReference.cache
+C:\Users\137070\source\repos\Taller.CodeChallenge\Taller.CodeChallenge.Domain\obj\Debug\net8.0\Taller.CodeChallenge.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\137070\source\repos\Taller.CodeChallenge\Taller.CodeChallenge.Domain\obj\Debug\net8.0\Taller.CodeChallenge.Domain.AssemblyInfoInputs.cache
+C:\Users\137070\source\repos\Taller.CodeChallenge\Taller.CodeChallenge.Domain\obj\Debug\net8.0\Taller.CodeChallenge.Domain.AssemblyInfo.cs
+C:\Users\137070\source\repos\Taller.CodeChallenge\Taller.CodeChallenge.Domain\obj\Debug\net8.0\Taller.CodeChallenge.Domain.csproj.CoreCompileInputs.cache
+C:\Users\137070\source\repos\Taller.CodeChallenge\Taller.CodeChallenge.Domain\obj\Debug\net8.0\Taller.CodeChallenge.Domain.dll
+C:\Users\137070\source\repos\Taller.CodeChallenge\Taller.CodeChallenge.Domain\obj\Debug\net8.0\refint\Taller.CodeChallenge.Domain.dll
+C:\Users\137070\source\repos\Taller.CodeChallenge\Taller.CodeChallenge.Domain\obj\Debug\net8.0\Taller.CodeChallenge.Domain.pdb
+C:\Users\137070\source\repos\Taller.CodeChallenge\Taller.CodeChallenge.Domain\obj\Debug\net8.0\ref\Taller.CodeChallenge.Domain.dll

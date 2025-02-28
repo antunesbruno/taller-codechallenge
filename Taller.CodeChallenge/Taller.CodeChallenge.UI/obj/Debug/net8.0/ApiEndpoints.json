@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "Taller_CodeChallenge.Controllers.UsersController",
+    "Method": "DeleteUserById",
+    "RelativePath": "delete-user-inmemory-database",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idUser",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Taller_CodeChallenge.Controllers.UsersController",
+    "Method": "GetUsersByName",
+    "RelativePath": "get-users-by-name",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Taller_CodeChallenge.Controllers.UsersController",
+    "Method": "InsertUserInMemoryDatabase",
+    "RelativePath": "insert-user-inmemory-database",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userModel",
+        "Type": "Taller.CodeChallenge.Domain.AggregateModels.Request.UserModelToAdd",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,15 @@
+C:\Users\137070\source\repos\Taller.CodeChallenge\Taller.CodeChallenge.Infrastructure\bin\Debug\net8.0\Taller.CodeChallenge.Infrastructure.deps.json
+C:\Users\137070\source\repos\Taller.CodeChallenge\Taller.CodeChallenge.Infrastructure\bin\Debug\net8.0\Taller.CodeChallenge.Infrastructure.dll
+C:\Users\137070\source\repos\Taller.CodeChallenge\Taller.CodeChallenge.Infrastructure\bin\Debug\net8.0\Taller.CodeChallenge.Infrastructure.pdb
+C:\Users\137070\source\repos\Taller.CodeChallenge\Taller.CodeChallenge.Infrastructure\bin\Debug\net8.0\Taller.CodeChallenge.Domain.dll
+C:\Users\137070\source\repos\Taller.CodeChallenge\Taller.CodeChallenge.Infrastructure\bin\Debug\net8.0\Taller.CodeChallenge.Domain.pdb
+C:\Users\137070\source\repos\Taller.CodeChallenge\Taller.CodeChallenge.Infrastructure\obj\Debug\net8.0\Taller.CodeChallenge.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\137070\source\repos\Taller.CodeChallenge\Taller.CodeChallenge.Infrastructure\obj\Debug\net8.0\Taller.CodeChallenge.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\137070\source\repos\Taller.CodeChallenge\Taller.CodeChallenge.Infrastructure\obj\Debug\net8.0\Taller.CodeChallenge.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\137070\source\repos\Taller.CodeChallenge\Taller.CodeChallenge.Infrastructure\obj\Debug\net8.0\Taller.CodeChallenge.Infrastructure.AssemblyInfo.cs
+C:\Users\137070\source\repos\Taller.CodeChallenge\Taller.CodeChallenge.Infrastructure\obj\Debug\net8.0\Taller.CodeChallenge.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\137070\source\repos\Taller.CodeChallenge\Taller.CodeChallenge.Infrastructure\obj\Debug\net8.0\Taller.C.AE3D1A40.Up2Date
+C:\Users\137070\source\repos\Taller.CodeChallenge\Taller.CodeChallenge.Infrastructure\obj\Debug\net8.0\Taller.CodeChallenge.Infrastructure.dll
+C:\Users\137070\source\repos\Taller.CodeChallenge\Taller.CodeChallenge.Infrastructure\obj\Debug\net8.0\refint\Taller.CodeChallenge.Infrastructure.dll
+C:\Users\137070\source\repos\Taller.CodeChallenge\Taller.CodeChallenge.Infrastructure\obj\Debug\net8.0\Taller.CodeChallenge.Infrastructure.pdb
+C:\Users\137070\source\repos\Taller.CodeChallenge\Taller.CodeChallenge.Infrastructure\obj\Debug\net8.0\ref\Taller.CodeChallenge.Infrastructure.dll
